@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="e Aadhaar card download is easy via UIDAI. Learn how to download Aadhaar by number, name, or enrollment ID, even without a mobile number." />
+  <title>How to Download e Aadhaar Card Online from UIDAI [Step-by-Step Guide]</title>
+</head>
+<body>
+  <main>
+    <h1>How to Download e Aadhaar Card Online – Easy Steps Explained</h1>
+
+    <p>In today’s digital-first world, having access to your official documents anytime, anywhere is important. One such essential document is your <strong>Aadhaar card</strong>. Thankfully, the <strong>e Aadhaar card download</strong> process is straightforward, free, and available to everyone through the <strong>UIDAI website</strong>.</p>
+
+    <p>Whether you’ve lost your physical card, need a digital version for KYC, or want to store it safely on your mobile, this guide explains <strong>how to download e Aadhaar</strong> using different methods — by Aadhaar number, enrollment ID, or even name and date of birth.</p>
+
+    <h2>What is an e Aadhaar Card?</h2>
+    <p>An <strong>e Aadhaar</strong> is the digital version of your Aadhaar card issued by UIDAI (Unique Identification Authority of India). It’s <strong>digitally signed, password-protected</strong>, and just as valid as the physical Aadhaar.</p>
+
+    <ul>
+      <li>Online KYC (Know Your Customer) processes</li>
+      <li>Mobile verification</li>
+      <li>Income tax filing</li>
+      <li>Government scheme applications</li>
+    </ul>
+
+    <h2>1. How to Download e Aadhaar by Aadhaar Number</h2>
+    <p><strong>Steps:</strong></p>
+    <ol>
+      <li>Visit the official website: <a href="https://eaadhaar.uidai.gov.in/" target="_blank">https://eaadhaar.uidai.gov.in/</a></li>
+      <li>Select the option: “Aadhaar”</li>
+      <li>Enter your <strong>12-digit Aadhaar number</strong></li>
+      <li>Enter the security captcha</li>
+      <li>Click on <strong>“Send OTP”</strong></li>
+      <li>You’ll receive a one-time password on your registered mobile number</li>
+      <li>Enter OTP and verify</li>
+      <li>Click “Download Aadhaar”</li>
+    </ol>
+    <p><strong>Tip:</strong> Make sure your mobile number is linked to your Aadhaar for OTP verification.</p>
+
+    <h2>2. Download e Aadhaar by Enrollment ID (EID)</h2>
+    <ol>
+      <li>Go to <a href="https://eaadhaar.uidai.gov.in/" target="_blank">UIDAI’s download portal</a></li>
+      <li>Select “Enrollment ID (EID)”</li>
+      <li>Enter your 14-digit EID and 14-digit date/time (from your slip)</li>
+      <li>Fill the security code and click <strong>“Send OTP”</strong></li>
+      <li>Enter the OTP and click “Download Aadhaar”</li>
+    </ol>
+
+    <h2>3. Download e Aadhaar by Name and Date of Birth</h2>
+    <p><strong>Steps:</strong></p>
+    <ol>
+      <li>Visit: <a href="https://resident.uidai.gov.in/find-uid-eid" target="_blank">https://resident.uidai.gov.in/find-uid-eid</a></li>
+      <li>Choose either “Aadhaar No (UID)” or “Enrollment No (EID)”</li>
+      <li>Enter your full name and date of birth</li>
+      <li>Enter mobile number or email (linked to Aadhaar)</li>
+      <li>Submit to receive your Aadhaar number via SMS</li>
+      <li>Then, go back to the main UIDAI site and follow the download steps</li>
+    </ol>
+    <p><strong>Note:</strong> This only works if your mobile number/email is already linked with Aadhaar.</p>
+
+    <h2>4. Download Aadhaar Using the mAadhaar App</h2>
+    <ol>
+      <li>Install the mAadhaar app (available on Android & iOS)</li>
+      <li>Register using your mobile number</li>
+      <li>Add your Aadhaar profile</li>
+      <li>Go to the “Download Aadhaar” section and follow prompts</li>
+    </ol>
+    <p><strong>Issue:</strong> If <em>mAadhaar OTP not received</em>, try again or check your mobile network.</p>
+
+    <h2>What is the Password to Open Aadhaar PDF?</h2>
+    <p>The file is password-protected for security.</p>
+    <p><strong>Password format:</strong> First 4 letters of your name in <strong>CAPITALS</strong> + birth year</p>
+    <p><strong>Example:</strong> RAVI1990</p>
+
+    <h2>People Also Ask (PAA)</h2>
+
+    <h3>Is e Aadhaar valid as original?</h3>
+    <p><strong>Yes.</strong> The e Aadhaar is digitally signed and valid for all official purposes.</p>
+
+    <h3>Can I download Aadhaar if my mobile number is not registered?</h3>
+    <p><strong>No.</strong> You must update your mobile number to receive OTP.</p>
+    <p>Visit the nearest Aadhaar Seva Kendra to link your number.</p>
+
+    <h3>What to do if I don’t receive OTP?</h3>
+    <ul>
+      <li>Check network signal</li>
+      <li>Try again after 1-2 minutes</li>
+      <li>Switch browsers if needed</li>
+    </ul>
+
+    <h2>PVC Aadhaar Card vs e Aadhaar – What’s the Difference?</h2>
+    <table border="1" cellpadding="8" cellspacing="0">
+      <thead>
+        <tr>
+          <th>Feature</th>
+          <th>e Aadhaar</th>
+          <th>PVC Aadhaar Card</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Format</td>
+          <td>Digital PDF</td>
+          <td>Plastic physical card</td>
+        </tr>
+        <tr>
+          <td>Cost</td>
+          <td>Free</td>
+          <td>₹50</td>
+        </tr>
+        <tr>
+          <td>Validity</td>
+          <td>Official and valid</td>
+          <td>Also valid and durable</td>
+        </tr>
+        <tr>
+          <td>Where to Get</td>
+          <td>UIDAI website/app</td>
+          <td>UIDAI PVC request portal</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Common Issues During Aadhaar Download</h2>
+
+    <h3>UIDAI Website Not Working</h3>
+    <p>Try during off-peak hours and use Chrome or Firefox browser.</p>
+
+    <h3>Invalid Aadhaar or EID</h3>
+    <p>Double-check the number and EID slip.</p>
+
+    <h3>Aadhaar Not Downloading Even After OTP</h3>
+    <ul>
+      <li>Enable pop-ups and downloads in browser settings</li>
+      <li>Turn off VPN or ad blockers</li>
+    </ul>
+
+    <h3>Forgot Aadhaar Number?</h3>
+    <p>Use the UIDAI’s <a href="https://resident.uidai.gov.in/find-uid-eid" target="_blank">Find UID/EID tool</a> to recover it.</p>
+
+    <h2>Conclusion: e Aadhaar Card Download is Simple and Secure</h2>
+    <p>Whether you need Aadhaar for KYC, verification, or documentation, the <strong>e Aadhaar download process</strong> through <strong>UIDAI</strong> is free, fast, and reliable.</p>
+
+    <p><strong>Summary:</strong></p>
+    <ul>
+      <li>Download via Aadhaar number, EID, or name/DOB</li>
+      <li>It’s valid and officially accepted</li>
+      <li>Keep your mobile number linked for OTP</li>
+      <li>Only use the official UIDAI website or app</li>
+    </ul>
+
+    <p><strong>Note:</strong> Store your PDF Aadhaar securely and avoid sharing it unnecessarily to prevent misuse.</p>
+
+    <h2>Need Help?</h2>
+    <p>Call UIDAI helpline at <strong>1947</strong> or visit your nearest Aadhaar Seva Kendra for support.</p>
+  </main>
+</body>
+</html>
